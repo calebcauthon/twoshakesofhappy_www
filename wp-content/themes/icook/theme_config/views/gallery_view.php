@@ -42,7 +42,7 @@
                        
                         <div class="col-md-<?php echo $span?> col-xs-6 <?php echo implode(' ', array_keys($slide['categories'])); ?>">
                             <div class="recipe-item">
-                                <a href="<?php echo $slide['options']['full_image']; ?>" class="swipebox">
+                                <a href="<?php echo str_replace('gallery/', '', get_permalink( $slide['post']->ID )); ?>">
                                     <span class="item-cover recipe-item-cover">
                                         <img src="<?php echo $slide['options']['cover_image']; ?>" alt="portfolio-image" />
                                     </span>
