@@ -10,7 +10,7 @@
 			    		while ( have_posts() ) : the_post(); ?>
 		                    <div class="blog-entry">
 								
-								<?php tt_video_or_image_featured(); ?>
+								<a href="<?php the_permalink( ) ?>"><?php tt_video_or_image_featured(); ?></a>
 		                        
 		                        <div class="row">
 		                            <div class="col-md-4">
