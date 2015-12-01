@@ -1,0 +1,27 @@
+Version 1.0.5 - 04.04.2014
+================================================
+Updated	:	Added 'Set Featured Video' option for posts
+Updated	:	Inserting galleries in posts
+
+Version 1.0.4 - 04.04.2014
+================================================
+Fixed	:	Theme Demo options
+Fixed	:	icook options
+
+Version 1.0.3 - 26.03.2014
+================================================
+Fixed	:	Post Dates Format
+Fixed	:	Posts
+
+Version 1.0.2 - 12.03.2014
+================================================
+Fixed	:	Logo size on pages
+Fixed	:	DropDown Menu
+
+Version 1.0.1 - 11.03.2014
+================================================
+Fixed	:	Comments
+
+Version 1.0.0 - Initial Release: 10.03.2014
+================================================
+- 
