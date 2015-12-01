@@ -28,7 +28,7 @@
 		                            </div>
 		                            <div class="col-md-8">
 		                                <div class="entry-content">
-		                                    HELLO<?php
+		                                    <?php
 									            $excerpt = get_the_excerpt();
 									            if(!empty($excerpt)){
 									                the_excerpt();
