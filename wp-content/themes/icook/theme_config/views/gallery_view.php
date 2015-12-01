@@ -48,7 +48,7 @@
                                     </span>
                                 </a>
                                 <h1>
-                                    <a href="<?php echo get_permalink( $slide['post']->ID ); ?>"><?php  echo get_the_title( $slide['post']->ID ); ?></a>
+                                    <a href="<?php echo str_replace('gallery/', '', get_permalink( $slide['post']->ID )); ?>"><?php  echo get_the_title( $slide['post']->ID ); ?></a>
                                 </h1>
                             </div>
                         </div>
